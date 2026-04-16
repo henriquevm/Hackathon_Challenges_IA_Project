@@ -1,7 +1,10 @@
 langchain
 langchain-openai
-langfuse
+langfuse>=3,<4
 python-dotenv
 ulid-py
 langgraph
 jupyter
+pandas
+numpy
+geopy
