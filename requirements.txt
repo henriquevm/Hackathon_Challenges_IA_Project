@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langfuse
+python-dotenv
+ulid-py
+langgraph
+jupyter
